@@ -1,0 +1,9 @@
+.filler{
+    display: flex;
+    overflow: hidden;
+}
+.fill{
+    float: left;
+    margin: 0 auto;
+    margin-right: 15px;
+}
